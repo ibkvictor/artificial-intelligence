@@ -1,7 +1,6 @@
 # artificial-intelligence
 
-
-<span>Photo by <a href="https://unsplash.com/@franckinjapan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Franck V.</a> on <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+(https://github.com/ibkvictor/artificial-intelligence/blob/master/download.jpeg)
 
 Within this repository lie the tale of my journey to a career as a human-centered ai and robotics engineer.
 
